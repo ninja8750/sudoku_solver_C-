@@ -1,4 +1,4 @@
 # sudoku_solver_C-
-my first github project
+My first github project.
 
-this is header
+First version takes input from the code you have to edit the source code to input initials of sudoku then program will show the output.
